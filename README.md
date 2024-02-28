@@ -7,7 +7,7 @@ This Python script allows users to easily download profile pictures of any Insta
   ```
   pip install instaloader
   ```
-2. Run:
+2. Run the script:
   ```
   python download_instagram_profile.py
   ```
